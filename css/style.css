@@ -5,7 +5,7 @@ body {
     font-family: 'Delicious Handrawn', cursive;
 }
 .display-machine {
-    background-color: red;
+    background-color: rgb(40, 11, 11);
     width: 50%;
     margin: 0 auto;
     margin-top: 60px;
@@ -23,7 +23,7 @@ form {
     margin: 10px;
     font-size: 18px;
     padding: 5px;
-    border: 1px solid blue;
+    border: 1px solid rgb(3, 3, 34);
     border-radius: 10px;
     outline: none;
   }
